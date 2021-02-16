@@ -1,2 +1,2 @@
-# websimple
- Pagina web de prueba
+# WebSimple
+ Proyecto para enseñar Git
